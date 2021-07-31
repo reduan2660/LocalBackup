@@ -29,7 +29,7 @@ Official robocopy [documentation](https://docs.microsoft.com/en-us/windows-serve
 
 ## Task Schedule
 
-1. Open Task Scheduler & Create a Task. ![Create Taks](./DoucmentaionImages\TaskSchedule\CreateTask.png?raw=true)
+1. Open Task Scheduler & Create a Task. ![Create Taks](https://github.com/reduan2660/LocalBackup/blob/master/DoucmentaionImages/TaskSchedule/Action.png)
 
 2. Give it a name & set privilaged. ![Give a Name](./DoucmentaionImages\TaskSchedule\General.png?raw=true)
 
