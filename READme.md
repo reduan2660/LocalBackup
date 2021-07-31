@@ -29,17 +29,17 @@ Official robocopy [documentation](https://docs.microsoft.com/en-us/windows-serve
 
 ## Task Schedule
 
-1. Open Task Scheduler & Create a Task. ![Create Taks](./DoucmentaionImages\TaskSchedule\CreateTask.png)
+1. Open Task Scheduler & Create a Task. ![Create Taks](./DoucmentaionImages\TaskSchedule\CreateTask.png?raw=true)
 
-2. Give it a name & set privilaged. ![Give a Name](./DoucmentaionImages\TaskSchedule\General.png)
+2. Give it a name & set privilaged. ![Give a Name](./DoucmentaionImages\TaskSchedule\General.png?raw=true)
 
-3. Create a new Trigger & set it to daily with repetitions. ![New Trigger](./DoucmentaionImages\TaskSchedule\NewTrigger.png)
-   ![New Trigger Details](./DoucmentaionImages\TaskSchedule\Trigger.png)
+3. Create a new Trigger & set it to daily with repetitions. ![New Trigger](./DoucmentaionImages\TaskSchedule\NewTrigger.png?raw=true)
+   ![New Trigger Details](./DoucmentaionImages\TaskSchedule\Trigger.png?raw=true)
 
-4. Create a new Action & select the .bat files. ![New Action](./DoucmentaionImages\TaskSchedule\NewAction.png)
-   ![New Action Details](./DoucmentaionImages\TaskSchedule\Action.png)
+4. Create a new Action & select the .bat files. ![New Action](./DoucmentaionImages\TaskSchedule\NewAction.png?raw=true)
+   ![New Action Details](./DoucmentaionImages\TaskSchedule\Action.png?raw=true)
 
-5. Adjust or tweak some settings or not ! ![Settings](./DoucmentaionImages\TaskSchedule\Settings.png)
+5. Adjust or tweak some settings or not ! ![Settings](./DoucmentaionImages\TaskSchedule\Settings.png?raw=true)
 
 # Next Update
 
