@@ -44,7 +44,8 @@ Official robocopy [documentation](https://docs.microsoft.com/en-us/windows-serve
 
 4. Create a new Action & select the .bat files.
 
-![New Action](https://github.com/reduan2660/LocalBackup/blob/master/DoucmentaionImages/TaskSchedule/NewAction.png)
+![New Action](https://github.com/reduan2660/LocalBackup/blob/master/DoucmentaionImages/TaskSchedule/CreateAction.png)
+
 ![New Action Details](https://github.com/reduan2660/LocalBackup/blob/master/DoucmentaionImages/TaskSchedule/Action.png)
 
 5. Adjust or tweak some settings or not !
