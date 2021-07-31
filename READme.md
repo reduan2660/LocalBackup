@@ -29,17 +29,27 @@ Official robocopy [documentation](https://docs.microsoft.com/en-us/windows-serve
 
 ## Task Schedule
 
-1. Open Task Scheduler & Create a Task. ![Create Taks](https://github.com/reduan2660/LocalBackup/blob/master/DoucmentaionImages/TaskSchedule/Action.png)
+1. Open Task Scheduler & Create a Task.
 
-2. Give it a name & set privilaged. ![Give a Name](./DoucmentaionImages\TaskSchedule\General.png?raw=true)
+![Create Taks](https://github.com/reduan2660/LocalBackup/blob/master/DoucmentaionImages/TaskSchedule/Action.png)
 
-3. Create a new Trigger & set it to daily with repetitions. ![New Trigger](./DoucmentaionImages\TaskSchedule\NewTrigger.png?raw=true)
-   ![New Trigger Details](./DoucmentaionImages\TaskSchedule\Trigger.png?raw=true)
+2. Give it a name & set privilaged.
 
-4. Create a new Action & select the .bat files. ![New Action](./DoucmentaionImages\TaskSchedule\NewAction.png?raw=true)
-   ![New Action Details](./DoucmentaionImages\TaskSchedule\Action.png?raw=true)
+![Give a Name](https://github.com/reduan2660/LocalBackup/blob/master/DoucmentaionImages/TaskSchedule/General.png)
 
-5. Adjust or tweak some settings or not ! ![Settings](./DoucmentaionImages\TaskSchedule\Settings.png?raw=true)
+3. Create a new Trigger & set it to daily with repetitions.
+
+![New Trigger](https://github.com/reduan2660/LocalBackup/blob/master/DoucmentaionImages/TaskSchedule/NewTrigger.png)
+![New Trigger Details](https://github.com/reduan2660/LocalBackup/blob/master/DoucmentaionImages/TaskSchedule/Trigger.png)
+
+4. Create a new Action & select the .bat files.
+
+![New Action](https://github.com/reduan2660/LocalBackup/blob/master/DoucmentaionImages/TaskSchedule/NewAction.png)
+![New Action Details](https://github.com/reduan2660/LocalBackup/blob/master/DoucmentaionImages/TaskSchedule/Action.png)
+
+5. Adjust or tweak some settings or not !
+
+![Settings](https://github.com/reduan2660/LocalBackup/blob/master/DoucmentaionImages/TaskSchedule/Settings.png)
 
 # Next Update
 
